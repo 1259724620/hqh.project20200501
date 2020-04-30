@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>hqh.project.web</name>
+    </assembly>
+    <members>
+        <member name="T:hqh.project.web.Controllers.BaseController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:hqh.project.web.Controllers.HomeController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:hqh.project.web.Controllers.HomeController.Index">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:hqh.project.web.Controllers.UserController">
+            <summary>
+            用户控制器
+            </summary>
+        </member>
+        <member name="M:hqh.project.web.Controllers.UserController.AddEditUser(hqh.project.Dtos.AddEditUserDto,hqh.project.Application.Contract.Services.IUserService)">
+             <summary>
+            新增或编辑用户
+             </summary>
+             <returns></returns>
+        </member>
+        <member name="T:hqh.project.web.Swagger.EnumSchemaFilter">
+            <summary>
+            枚举参数示例
+            </summary>
+        </member>
+        <member name="M:hqh.project.web.Swagger.EnumSchemaFilter.Apply(Microsoft.OpenApi.Models.OpenApiSchema,Swashbuckle.AspNetCore.SwaggerGen.SchemaFilterContext)">
+            <summary>
+            设置枚举显示
+            </summary>
+            <param name="schema"></param>
+            <param name="context"></param>
+        </member>
+        <member name="T:hqh.project.web.Swagger.SwaggerIgnoreAttribute">
+            <summary>
+            隐藏Swagger Api特性
+            </summary>
+        </member>
+        <member name="T:hqh.project.web.Swagger.SwaggerIgnoreFilter">
+            <summary>
+            Swagger Api 过滤器
+            </summary>
+        </member>
+        <member name="M:hqh.project.web.Swagger.SwaggerIgnoreFilter.Apply(Microsoft.OpenApi.Models.OpenApiDocument,Swashbuckle.AspNetCore.SwaggerGen.DocumentFilterContext)">
+            <summary>
+            
+            </summary>
+            <param name="swaggerDoc"></param>
+            <param name="context"></param>
+        </member>
+        <member name="T:hqh.project.web.WebModule">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:hqh.project.web.WebModule.ConfigureServices(Volo.Abp.Modularity.ServiceConfigurationContext)">
+            <summary>
+            
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="M:hqh.project.web.WebModule.OnApplicationInitialization(Volo.Abp.ApplicationInitializationContext)">
+            <summary>
+            
+            </summary>
+            <param name="context"></param>
+        </member>
+    </members>
+</doc>

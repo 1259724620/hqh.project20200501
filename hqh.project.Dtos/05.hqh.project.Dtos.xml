@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>05.hqh.project.Dtos</name>
+    </assembly>
+    <members>
+        <member name="T:hqh.project.Dtos.AddEditUserDto">
+            <summary>
+            薪增编辑
+            </summary>
+        </member>
+        <member name="P:hqh.project.Dtos.AddEditUserDto.Account">
+            <summary>
+            账号
+            </summary>
+        </member>
+        <member name="P:hqh.project.Dtos.AddEditUserDto.Password">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="P:hqh.project.Dtos.AddEditUserDto.UserName">
+            <summary>
+            姓名
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,14 @@
+/hqh.project.web/bin
+/hqh.project.web/obj
+/hqh.project.Dtos/obj
+/hqh.project.Dtos/bin
+/hqh.project.Application.Services/obj
+/hqh.project.Application.Services/bin
+/hqh.project.Application.IServices/bin
+/hqh.project.Application.IServices/obj
+/05.hqh.project.Common/obj
+/05.hqh.project.Common/bin
+/02.hqh.project.EntityFrameCore.DbMigration/obj
+/02.hqh.project.EntityFrameCore.DbMigration/bin
+/01.hqh.project.EntityFrameCore/obj
+/01.hqh.project.EntityFrameCore/bin

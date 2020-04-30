@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>04.hqh.project.Application.Services</name>
+    </assembly>
+    <members>
+        <member name="M:hqh.project.Application.Services.Services.UserService.AddEditUser(hqh.project.Dtos.AddEditUserDto)">
+             <summary>
+            新增或编辑用户
+             </summary>
+             <returns></returns>
+        </member>
+    </members>
+</doc>
